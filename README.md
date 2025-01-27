@@ -15,6 +15,7 @@ hello there! i'm an aspiring software and graphics engineer and a CS major at UP
 `🌆` [Cityscape](https://github.com/Bbrizly/Cityscape): An optimized procedurally generated Voronoi Diagram based cityscape.  
 `🔠` [Text-Renderer](https://github.com/Bbrizly/OpenGL-Text-Renderer): OpenGL based Text-Renderer using Font-sheet techniques.  
 `🛒` [Inventory System](https://github.com/Bbrizly/Inventory_System): Java-based inventory system for small businesses.  
+`♟` [Chess](https://github.com/Bbrizly/ChessGrouproj): Python-based primitive Chess game 
 
 ## Statistics
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
